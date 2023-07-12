@@ -1,0 +1,11 @@
+.jokeContainer {
+    margin-bottom: 1rem;
+}
+
+.jokeText {
+    display: inline;
+    margin-right: 1rem;
+}
+.voteCount {
+    display: inline;
+}
